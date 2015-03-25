@@ -10,5 +10,5 @@ package Entities;
  * @author RlxCw
  */
 public class Car {
-    //Kennie din klovn
+    //Fuck dig
 }
